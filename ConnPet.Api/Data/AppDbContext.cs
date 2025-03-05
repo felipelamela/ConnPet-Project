@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConnPet.Api.Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext(DbContextOptions options) : DbContext(options)
     {
         public DbSet<Address> Addresses { get; set; } = null!;
         public DbSet<Clinic> Clinics { get; set; } = null!;
