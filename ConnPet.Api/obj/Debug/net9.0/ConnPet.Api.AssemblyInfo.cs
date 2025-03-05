@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnPet.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+714975a6bb3e0021ab1fa439342f9d929fbdbfcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnPet.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnPet.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
